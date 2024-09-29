@@ -1,7 +1,3 @@
-Here's a `README.md` file for your project:
-
----
-
 # Preventive Healthcare System
 
 This project is an **AI-powered Predictive Healthcare System** that helps identify individuals at risk of developing chronic diseases such as **diabetes, heart disease, or obesity**. The system provides personalized recommendations for preventive care based on lifestyle and medical data.
@@ -34,7 +30,7 @@ pip install -r requirements.txt
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/your-username/preventive-healthcare-system.git
+git clone https://github.com/aaarif796/preventive-healthcare-system.git
 cd preventive-healthcare-system
 ```
 
