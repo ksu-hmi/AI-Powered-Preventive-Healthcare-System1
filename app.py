@@ -64,8 +64,8 @@ def generate_feedback(diabetes_prob, heart_disease_prob):
 
 # --- Load assets ---
 lottie_coding = load_lottie_url("https://lottie.host/d03b4e9d-a139-4df4-8f84-fb4c358891e9/gRBlHPnlpx.json")
-img_contact_form = Image.open("C:\\Users\\Nimisha Jain\\Desktop\\app\\images\\healthcare.webp")
-# img_lottie_animation = Image.open("C:\\Users\\Nimisha Jain\\Desktop\\app\\images\\pic3.jpeg")
+img_contact_form = Image.open("images\\healthcare.webp")
+# img_lottie_animation = Image.open("images\\pic3.jpeg")
 
 
 # --- Header section ---
