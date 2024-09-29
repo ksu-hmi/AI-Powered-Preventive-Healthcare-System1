@@ -30,8 +30,8 @@ pip install -r requirements.txt
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/aaarif796/preventive-healthcare-system.git
-cd preventive-healthcare-system
+git clone https://github.com/aaarif796/AI-Powered-Preventive-Healthcare-System.git
+cd AI-Powered-Preventive-Healthcare-System
 ```
 
 2. **Download or Place Model Files**:
@@ -98,6 +98,3 @@ The app will predict your risk level for **diabetes**, **heart disease**, and **
 
 This application was developed as part of the **TechXcelerate 2024** challenge, focusing on developing a predictive healthcare system using machine learning and AI.
 
----
-
-This file gives a clear description of the project, its features, and how to set up and use the application. Make sure to adjust the clone URL and folder paths as needed.
