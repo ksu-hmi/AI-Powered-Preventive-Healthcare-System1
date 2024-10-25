@@ -100,3 +100,5 @@ This application was developed as part of the **TechXcelerate 2024** challenge, 
 
 _will be adding two models, XGBoost and Naive Bayes, to the analysis of the diabetes dataset( diabetes data.csv) or enhanced predictive modeling._
 >Sprint 2
+focusing on developing a predictive healthcare system using machine learning and AI.
+>Sprint 2
