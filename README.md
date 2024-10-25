@@ -98,3 +98,5 @@ The app will predict your risk level for **diabetes**, **heart disease**, and **
 
 This application was developed as part of the **TechXcelerate 2024** challenge, focusing on developing a predictive healthcare system using machine learning and AI.
 
+_will be adding two models, XGBoost and Naive Bayes, to the analysis of the diabetes dataset( diabetes data.csv) or enhanced predictive modeling._
+>Sprint 2
