@@ -102,3 +102,5 @@ _will be adding two models, XGBoost and Naive Bayes, to the analysis of the diab
 >Sprint 2
 focusing on developing a predictive healthcare system using machine learning and AI.
 >Sprint 2
+will be adding a model to analyse the heart disease dataset
+>sprint2
