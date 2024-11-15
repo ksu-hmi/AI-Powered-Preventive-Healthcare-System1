@@ -105,4 +105,8 @@ focusing on developing a predictive healthcare system using machine learning and
 will be adding a model to analyse the heart disease dataset.
 More input to come, after I explore the dataset.
 >sprint2
+>Run the heart_complete.csv dataset on Jupiter notebook
+> changed the numerical values on the line plot and bar plot: layout (3,3) to (4,4), because I was getting errors
+> Addded the Xgboost and Naive bayes model to boost the accuracy. The Xgboost gave me an error on the jupiter notebook, but when I run it on the colab google notebook it ran fine.
+>create an app for predicting heart disease
 
