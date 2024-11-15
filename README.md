@@ -109,4 +109,4 @@ More input to come, after I explore the dataset.
 > changed the numerical values on the line plot and bar plot: layout (3,3) to (4,4), because I was getting errors
 > Addded the Xgboost and Naive bayes model to boost the accuracy. The Xgboost gave me an error on the jupiter notebook, but when I run it on the colab google notebook it ran fine.
 >create an app for predicting heart disease
-
+>Uploaded the new heart_complete.ipynb file, with the Xgboost and Naive Bayes added. I will work on it even more to fix the error and upload the latest version of the file.
