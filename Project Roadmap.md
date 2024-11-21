@@ -8,4 +8,4 @@
  - [X] Transfer updated Jupyter Notebook to GitHub
  - [x] Prepare for the Presentation
  - [x] Created an app for Predicting heart disease
- - [x] Uoploaded the app on Github
+ - [x] Uploaded the app on Github
