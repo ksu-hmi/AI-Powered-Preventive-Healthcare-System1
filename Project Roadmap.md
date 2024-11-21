@@ -2,8 +2,10 @@
  - [X] Fork the repository to Ksu-hmi Account  Done
  - [X] Creat a README   Done
  - [X] Download and Run the Jupyter Notebook  Done
- - [X ] Add XGBoost and Naive Bayers Models
- - [ ] calculate Acuracy of the Models
- - [ ] Summarize the Results
+ - [X] Add XGBoost, Naive Bayers Models and Gradient boosting classifier
+ - [x] calculate Acuracy of the Models
+ - [x] Summarize the Results
  - [X] Transfer updated Jupyter Notebook to GitHub
- - [ ] Prepare for the Presentation 
+ - [x] Prepare for the Presentation
+ - [x] Created an app for Predicting heart disease
+ - [x] Uoploaded the app on Github
