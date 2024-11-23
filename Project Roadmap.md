@@ -9,3 +9,6 @@
  - [x] Prepare for the Presentation
  - [x] Created an app for Predicting heart disease
  - [x] Uploaded the app on Github
+ - [X] Uploaded the Sprint3 Power Point Slide
+ - [X] Screenshot of Heart Disease app using Flask
+ - [X] Screenshot of Heart Disease app using Streamlit
